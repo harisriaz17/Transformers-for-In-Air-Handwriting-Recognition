@@ -16,3 +16,6 @@ Currently, I am working with the following datasets:
 ### Accuracy
 <img src="images/accuracy.jpeg" alt="accuracy"/>
 
+### Visualization of the letter `T` as a multivariate time series data sample:
+<img src="images/vis.png" alt="example visualization"/>
+
