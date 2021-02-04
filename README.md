@@ -7,7 +7,7 @@ Currently, I am working with the following datasets:
 - [IAM On-Line Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database)
 
 ### Results of time series transformer after training for 100 Epochs on OnHW dataset:
-![Predictions](images/[preds.jpeg)
+![Predictions](images/preds.jpeg)
 
 ## Loss after 100 Epochs
 ![Drag Racing](images/time-series-forecast.png)
