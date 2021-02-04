@@ -12,10 +12,10 @@ Currently, I am working with the following datasets:
 ### Loss curves
 <img src="images/losses.jpeg" alt="Loss curves" width="400" height="400"/>
 
-
 ### Accuracy
 <img src="images/accuracy.jpeg" alt="accuracy"/>
 
+---
+
 ### Visualization of the letter `T` as a multivariate time series data sample:
 <img src="images/vis.PNG" alt="example visualization" width="300" height="300"/>
-
