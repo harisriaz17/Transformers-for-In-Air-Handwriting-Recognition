@@ -7,11 +7,11 @@ Currently, I am working with the following datasets:
 - [IAM On-Line Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database)
 
 ### Predictions of time series transformer on OnHW validation dataset:
-![Predictions](images/preds.jpeg)
+<img src="images/preds.jpeg" alt="Predictions" width="200" height="400"/>
 
 ### Loss curves
 ![Loss curves](images/losses.jpeg)
 
-###
-![Accurcy](images/accuracy.jpeg)
+### Accuracy
+![Accuracy](images/accuracy.jpeg)
 
