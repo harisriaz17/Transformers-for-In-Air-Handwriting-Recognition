@@ -6,11 +6,12 @@ Currently, I am working with the following datasets:
 - [The OnHW Dataset: Online Handwriting Recognition from IMU-Enhanced Ballpoint Pens with Machine Learning](https://stabilodigital.com/onhw-dataset/)
 - [IAM On-Line Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database)
 
-### Results of time series transformer after training for 100 Epochs on OnHW dataset:
+### Predictions of time series transformer on OnHW validation dataset:
 ![Predictions](images/preds.jpeg)
 
-## Loss after 100 Epochs
-![Drag Racing](images/time-series-forecast.png)
+### Loss curves
+![Loss curves](images/losses.jpeg)
 
-## Time Series forecast
-![Drag Racing](images/90_epoch_error.png)
+###
+![Accurcy](images/accuracy.jpeg)
+
