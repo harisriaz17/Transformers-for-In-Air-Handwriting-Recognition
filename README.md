@@ -10,7 +10,7 @@ Currently, I am working with the following datasets:
 <img src="images/preds.jpeg" alt="Predictions" width="300" height="500"/>
 
 ### Loss curves
-<img src="images/losses.jpeg" alt="Loss curves" width="200" height="200"/>
+<img src="images/losses.jpeg" alt="Loss curves" width="400" height="400"/>
 
 
 ### Accuracy
